@@ -1,4 +1,4 @@
-# Atividade 6 — Clusterização com K-Means (Dataset Avocado)
+# Atividade 7 — Clusterização com K-NN (Dataset Avocado)
 
 Projeto de **Inteligência Artificial**: aplicação do algoritmo **K-Means** sobre dados de abacates (peso, diâmetro, espessura da casca e teor de gordura), com método do cotovelo, métricas de avaliação (ARI e silhouette) e gráficos comparando clusters encontrados e classes reais.
 
